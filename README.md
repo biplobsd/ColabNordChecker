@@ -1,3 +1,5 @@
+![preview](https://raw.githubusercontent.com/biplobsd/ColabNordChecker/master/src/preview.gif)
+
 # ColabNordChecker
 Using Colab Notebook to check NordVpn login
 
